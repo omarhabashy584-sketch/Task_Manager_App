@@ -1,0 +1,23 @@
+# Task Manager App
+
+A simple console-based task manager written in C++.  
+It allows users to:
+
+- Add tasks with names and optional due dates
+- Mark tasks as completed
+- View pending or completed tasks
+- Delete tasks
+
+## Features
+
+- Object-oriented design using C++ classes
+- Efficient task storage using STL containers
+- Input validation and basic error handling
+- Clean terminal UI
+
+## How to Run
+
+1. Make sure you have a C++ compiler installed (e.g., `g++`)
+2. Compile the project:
+   ```bash
+   g++ main.cpp -o task_manager
